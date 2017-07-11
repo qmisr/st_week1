@@ -2,7 +2,7 @@
 title       : Week 1
 description : Python review
 attachments :
-  slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
+  slides_link : https://drive.google.com/uc?id=0B1009hjuvZomQVp1NUh5Z2trXzQ&export=download
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:d8091c1a6f
 ## A really bad movie
