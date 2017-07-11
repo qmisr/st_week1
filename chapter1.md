@@ -2,7 +2,7 @@
 title       : Week 1
 description : Python review
 attachments :
-  slides_link : https://dl.dropboxusercontent.com/u/3668239/ch2.pdf
+  slides_link : https://google.com
 
 --- type:MultipleChoiceExercise lang:python xp:50 skills:1 key:d8091c1a6f
 ## A really bad movie
