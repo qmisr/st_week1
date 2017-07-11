@@ -1,6 +1,6 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : Week 1
+description : Python review
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
@@ -73,7 +73,7 @@ import numpy as np
 # Get integer values for genres
 _, ints = np.unique(movies.genre, return_inverse = True)
 
-# Import matplotlib.pyplot
+# Import matplotlib.pyplot مرحبا
 
 
 # Make a scatter plot: runtime on  x-axis, rating on y-axis and set c to ints
